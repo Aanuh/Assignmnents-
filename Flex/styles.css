@@ -73,7 +73,7 @@ button {
   background-color: hsl(179, 100%, 13%);
   color: hsl(0, 0%, 95%);
 }
-buton:hover {
+button:hover {
   background-color: transparent;
   color: hsl(0, 0%, 95%);
 }
